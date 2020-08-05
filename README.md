@@ -2,4 +2,4 @@
 
 
  - LINK DO NOTION (meu caderno) <br>
- <a href="https://www.notion.so/Origamid-JavaScript-905f7da2fac64858b60e11b126021a25">Notion</a>
+ <a href="https://www.notion.so/Origamid-JavaScript-905f7da2fac64858b60e11b126021a25" target="_blank">Notion</a>
